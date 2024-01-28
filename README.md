@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tazlaa
+- 👋 Hi, I’m @DannyTasla
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Other peoples
